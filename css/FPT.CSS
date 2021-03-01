@@ -1,0 +1,59 @@
+/*.company-info>h2{
+    bottom: 30px;
+    left:20px;
+    border-radius: 10px;
+    position: absolute;
+    font-variant: small-caps;
+    text-shadow: 0px 0px 20px orangered;
+    color: palevioletred;
+}*/
+.company-info{
+    position: relative;
+    left: 60px;
+    color: blue;
+    bottom: 5px;
+    top: 190px;
+    /*text-shadow: 0 0 10px yellow;*/
+    height: 50px;
+    padding: 15px;
+    margin: 5px;
+    word-spacing: 4px;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.company-info>h3{
+    bottom: 10px;
+    left: 5px;
+    border-radius: 10px;
+    position: absolute;
+    font-variant: small-caps;
+    color: palevioletred;
+    font-weight: bolder;
+}
+
+ 
+#top-menu{
+    position: absolute;
+    right: 131.5px;
+    top: 5px;
+    background-color: red;
+    border-bottom-left-radius: 30px;
+    padding: 5px 10px 5px 20px;
+}
+#top-menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+#top-menu a:hover{
+    color: greenyellow;
+    text-shadow: 0 0 5px black;
+}
+#logo header{
+    position: absolute;
+    left: 20px;
+    bottom: 30px;
+}
+
